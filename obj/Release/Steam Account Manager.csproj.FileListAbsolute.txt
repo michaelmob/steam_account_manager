@@ -1,0 +1,8 @@
+C:\Users\Mike\Documents\SharpDevelop Projects\Steam Account Manager\Steam Account Manager\bin\Release\Steam Account Manager.exe.config
+C:\Users\Mike\Documents\SharpDevelop Projects\Steam Account Manager\Steam Account Manager\bin\Release\Steam Account Manager.exe
+C:\Users\Mike\Documents\SharpDevelop Projects\Steam Account Manager\Steam Account Manager\obj\Release\Steam_Account_Manager.form_account.resources
+C:\Users\Mike\Documents\SharpDevelop Projects\Steam Account Manager\Steam Account Manager\obj\Release\Steam_Account_Manager.form_main.resources
+C:\Users\Mike\Documents\SharpDevelop Projects\Steam Account Manager\Steam Account Manager\obj\Release\Steam_Account_Manager.form_notes.resources
+C:\Users\Mike\Documents\SharpDevelop Projects\Steam Account Manager\Steam Account Manager\obj\Release\Steam Account Manager.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\SharpDevelop Projects\Steam Account Manager\Steam Account Manager\obj\Release\Steam Account Manager.exe
+C:\Users\Mike\Documents\SharpDevelop Projects\Steam Account Manager\Steam Account Manager\obj\Release\Steam Account Manager.csprojResolveAssemblyReference.cache
